@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Product 001",
+        "description": "Lorem Ispum...",
+        "traveled": "10,000 mi",
+        "location": "New York",
+        "price": "$19"
+    },
+    {
+        "name": "Product 002",
+        "description": "Lorem Ispum...",
+        "traveled": "10,000 mi",
+        "location": "New York",
+        "price": "$19"
+    },
+    {
+        "name": "Product 003",
+        "description": "Lorem Ispum...",
+        "traveled": "10,000 mi",
+        "location": "New York",
+        "price": "$19"
+    },
+    {
+        "name": "Product 004",
+        "description": "Lorem Ispum...",
+        "traveled": "10,000 mi",
+        "location": "New York",
+        "price": "$19"
+    },
+    {
+        "name": "Product 005",
+        "description": "Lorem Ispum...",
+        "traveled": "10,000 mi",
+        "location": "New York",
+        "price": "$19"
+    },
+    {
+        "name": "Product 006",
+        "description": "Lorem Ispum...",
+        "traveled": "10,000 mi",
+        "location": "New York",
+        "price": "$19"
+    }
+]

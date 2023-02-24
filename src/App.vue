@@ -424,6 +424,12 @@ main {
     display: flex;
     flex-direction: column;
 }
+@media screen and (max-width: 767px) {
+    main {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
 @media screen and (min-width: 768px) {
     main {
         flex-direction: row;
@@ -436,6 +442,12 @@ main {
     .product-wrapper {
         flex-grow: 2;
     }
+}
+
+@media screen and (min-width: 960px) {
+    .sidebar {
+        padding-right: 1.5rem;
+    }   
 }
 aside .badge {
     background-color: #4a4c4e;

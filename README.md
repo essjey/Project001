@@ -1,5 +1,8 @@
 # Project01
-This is an example project working with Greensock. 
+This project is going to be used as a testing environment to experiment with. The eventual goals will be to improve working with animation using greensock and state management with pinia. 
 
-npm install
-npm run dev
+
+
+## Preview
+npm install  
+npm run dev  
